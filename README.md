@@ -1,4 +1,4 @@
-# Y1 - 🐍Python-AEC⛑️_PAZ-ACADEMY☮_23/02/2023 
+# Y1 - 🐍Python-AEC⛑️PAZ-ACADEMY☮_23/02/2023 
 - Python AEC is a full day Python course for Architects, Engineers and BIM professionals.
 - Analyze, Optimize and Automatize with Python your normal day AEC workflows :D !
 ## CONTENT = FOLDERS[5] & FILES[20] :
