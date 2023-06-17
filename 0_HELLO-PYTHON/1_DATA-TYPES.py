@@ -76,6 +76,6 @@ h={'a':[1,2],'b':[4,6]}
 #Now let's print all the data types together
 typelist = [a,b,c,d,e,f,g,h] #First let's create a list with all
 for i in typelist: #Then let's create a loop for with all the types
-    print(type(i)) #And now print my typelist one to one ;)
+    print(type(i)) #And now print my typelist one by one ;)
 
 #Crazy start let's continue with the Python Power :D !
