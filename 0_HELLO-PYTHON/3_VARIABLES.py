@@ -107,7 +107,7 @@ print(type(y)) #This will print y data type
 print(type(z)) #This will print z data type
 
 #GLOBAL & LOCAL VARIABLES
-#Global Variables are created when we will use them a lot fo time ;)
+#Global Variables are created when we will use them a lot of times ;)
 x = "AEC" #This is a Global Variable because is create outside our functions
 y = " is Awesome !!!" #Global Varibles can be used by everyone !
 
